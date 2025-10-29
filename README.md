@@ -36,6 +36,12 @@ El proyecto sigue una arquitectura de capas bien definida que separa la presenta
 
 La futura integración de IA se detalla en la [Guía de Implementación de IA](src/AI_IMPLEMENTATION_GUIDE.md), que planea utilizar modelos como Llama-3.1 y Whisper.
 
+## 🔧 Configuración del Backend (Supabase)
+
+Este proyecto utiliza **Supabase** para la gestión del backend (base de datos, autenticación, etc.). Para configurar tu propia instancia de Supabase, sigue la guía detallada que se encuentra en el siguiente documento:
+
+**[➡️ Guía de Configuración de Supabase](supabase/SUPABASE_GUIDE.md)**
+
 ## 🚀 Cómo Empezar
 
 Sigue estos pasos para ejecutar el proyecto en tu entorno local:
